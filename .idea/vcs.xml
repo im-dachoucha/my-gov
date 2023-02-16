@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/Ministry-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/department-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ministry-of-economy-finance" vcs="Git" />
   </component>
 </project>

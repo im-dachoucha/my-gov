@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Ministry-service/Ministry-service.iml" filepath="$PROJECT_DIR$/Ministry-service/Ministry-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ministry-of-economy-finance/ministry-of-economy-finance.iml" filepath="$PROJECT_DIR$/ministry-of-economy-finance/ministry-of-economy-finance.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-gov.iml" filepath="$PROJECT_DIR$/my-gov.iml" />
     </modules>
   </component>
